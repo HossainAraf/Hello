@@ -35,12 +35,11 @@
 > Hello Microverse is a simple project using html and css.
 
 ## 🛠 Built With <a name="built-with"></a>
+### Tech Stack <a name="tech-stack"></a>
+
 1. HTML5
 2. CSS
 3. HTML-CSS linters
-### Tech Stack <a name="tech-stack"></a>
-
-> 
 
 <details>
   <summary>Client</summary>
@@ -57,19 +56,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Comming soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -103,16 +92,6 @@ Install with below command:
 To run the project, execute the following:
 
 Open index.html file either directly or using live server 
-
-### Run tests
-
-Comming soon
-
-### Deployment
-
-Comming soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
